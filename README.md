@@ -1,4 +1,6 @@
+<p align="center">
 [![MasterHead](assets/oldcomputer.gif)]()
+</p>
 <p align="center">
   <strong><H1>Fentanilo gratis en esta web <img src="assets/hand_waving.gif" width="50" height="50"> </H1></strong>
 </p>
