@@ -5,7 +5,7 @@
 <img src="assets/hand_waving.gif" width="50" height="50">
 </h1>
 <p align="left">
-<h2 Contact with me: </h2>
+<h2> Contact with me: </h2>
   
 <a href="https://instagram.com/adri.acp" target="_blank"><img align="center" src="assets/instagram.svg" alt="adri.acp" height="30" width="40" /></a>
 <a href="https://twitter.com/atakedepanico" target="_blank"><img align="center" src="assets/Logo_of_Twitter.svg.png" alt="atakedepanico" height="30" width="40" /></a>
