@@ -9,7 +9,7 @@
   
 <a href="https://instagram.com/adri.acp" target="_blank"><img align="center" src="assets/instagram.svg" alt="adri.acp" height="30" width="40" /></a>
 <a href="https://twitter.com/atakedepanico" target="_blank"><img align="center" src="assets/Logo_of_Twitter.svg.png" alt="atakedepanico" height="30" width="40" /></a>
-<a href="mailto:adrian.acuna2004@gmail.com" target="_blank"><img align="center" src="assets/Gmail_icon_(2020).svg" alt="adrian.acuna2004@gmail.com" height="30" width="40" /></a>
+<a href="mailto:adrian.acuna2004@gmail.com" target="_blank"><img align="center" src="assets/official-gmail-icon-2020-.svg" alt="adrian.acuna2004@gmail.com" height="30" width="40" /></a>
 </p>
 
 [**adrian.acuna2004@gmail.com**](mailto:adrian.acuna2004@gmail.com)
