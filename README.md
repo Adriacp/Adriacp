@@ -8,7 +8,7 @@
 <h3<strong>Contact with me:</strong></h3>
 <a href="https://instagram.com/adri.acp" target="_blank"><img align="center" src="assets/instagram.svg" alt="adri.acp" height="30" width="40" /></a>
 <a href="https://twitter.com/atakedepanico" target="_blank"><img align="center" src="assets/Logo_of_Twitter.svg.png" alt="atakedepanico" height="30" width="40" /></a>
-  [**adrian.acuna2004@gmail.com**](mailto:adrian.acuna2004@gmail.com)
 </p>
+[**adrian.acuna2004@gmail.com**](mailto:adrian.acuna2004@gmail.com)
 
 <p align="center">😈 I'm currently working on Software, and Content Creation.</p>
