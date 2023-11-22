@@ -1,5 +1,5 @@
 <p align="center">
-### Fentanilo gratis en esta web 👋
+  <strong>Fentanilo gratis en esta web 👋</strong>
 </p>
 
 <p align="center">
