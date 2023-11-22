@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><H2>Fentanilo gratis en esta web 👋</H2></strong>
+  <strong><H1>Fentanilo gratis en esta web 👋</H1></strong>
 </p>
 
 <p align="center">
