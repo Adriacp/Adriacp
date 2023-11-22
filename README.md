@@ -12,6 +12,4 @@
 <a href="mailto:adrian.acuna2004@gmail.com" target="_blank"><img align="center" src="assets/official-gmail-icon-2020-.svg" alt="adrian.acuna2004@gmail.com" height="30" width="40" /></a>
 </p>
 
-[**adrian.acuna2004@gmail.com**](mailto:adrian.acuna2004@gmail.com)
-
 <p align="center">😈 I'm currently working on Software, and Content Creation.</p>
