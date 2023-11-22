@@ -11,6 +11,8 @@
 
 - 📜I love speaking in english and I have a B2 certificate
 
+- 🎨I love art, specifically Monet's
+
 - Currently using: <br> <a href="https://ubuntu.com/" target="_blank"><img align="center" src="assets/ubuntu-4.svg" alt="ubuntu" height="30" width="40" /></a> <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank"><img align="center" src="assets/microsoft-windows-22.svg" alt="windows" height="30" width="40" /></a>
 
 <p align="left">
