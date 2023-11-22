@@ -4,6 +4,16 @@
 <h1 align="center"> "Hola, mundo!"
 <img src="assets/hand_waving.gif" width="50" height="50">
 </h1>
+
+<img align="right" alt="Coding" width="400" src="assets/liliesmonet.jpg">
+
+- 📚 I’m currently studying in **University of La Laguna <br> (Computer Science and Engineering)**
+
+- 📜I love speaking in english and I have a B2 certificate
+
+- Currently using: <br> <p><img style="vertical-align:middle; margin:5px 10px" height=35 width=35 src="assets/ubuntu-4.svg"></p> <p><img style="vertical-align:middle; margin:5px 0px;" height=35 width=35 src="assets/microsoft-windows-22.svg"></p>
+
+
 <p align="left">
 <h3> Contact with me: </h3>
   
