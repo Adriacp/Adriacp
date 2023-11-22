@@ -12,4 +12,5 @@
 <a href="mailto:adrian.acuna2004@gmail.com" target="_blank"><img align="center" src="assets/official-gmail-icon-2020-.svg" alt="adrian.acuna2004@gmail.com" height="30" width="40" /></a>
 </p>
 
-<p align="center">😈 I'm currently working on Software, and Content Creation.</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/bash-2.svg" alt="bash" width="40" height="40"/> </a>
