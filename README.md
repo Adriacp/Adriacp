@@ -8,6 +8,7 @@
   <a href="https://github.com/Adriacp"><img src="https://github-readme-stats.vercel.app/api?username=Adriacp&hide_border=true&show_icons=true" alt="Adriacp's github stats"></a>
 </p>
 <p align="center">
+<a href="https://instagram.com/adri.acp_" target="_blank"><img align="center" src="assets/instagram.svg" alt="adri.acp" height="30" width="40" /></a>
   <strong><a href="https://twitter.com/atakedepanico">Twitter</a></strong> |
   <strong><a href="https://www.instagram.com/adri.acp">Instagram</a></strong>
 </p>
