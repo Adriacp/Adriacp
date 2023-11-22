@@ -13,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/bash-2.svg" alt="bash" width="40" height="40"/> </a> <a href="[https://www.w3schools.com/cpp/](https://cplusplus.com/)" target="_blank" rel="noreferrer"> <img src="assets/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="assets/linux-tux.svg" alt="linux" width="40" height="40"/> </a>
+p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/bash-2.svg" alt="bash" width="40" height="40"/> </a> <a href="[https://www.w3schools.com/cpp/](https://cplusplus.com/)" target="_blank" rel="noreferrer"> <img src="assets/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="assets/linux-svgrepo-com.svg" alt="linux" width="40" height="40"/> </a>
