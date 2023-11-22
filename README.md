@@ -1,4 +1,4 @@
-[![MasterHead](assets/masterhead.gi)]()
+[![MasterHead](assets/oldcomputer.gif)]()
 <p align="center">
   <strong><H1>Fentanilo gratis en esta web <img src="assets/hand_waving.gif" width="50" height="50"> </H1></strong>
 </p>
@@ -13,5 +13,3 @@
 </p>
 
 <p align="center">😈 I'm currently working on Software, and Content Creation.</p>
-
-<div class="tenor-gif-embed" data-postid="4184928" data-share-method="host" data-aspect-ratio="1.35135" data-width="100%"><a href="https://tenor.com/view/mad-angry-computer-technology-patrick-gif-4184928">Angry GIF</a>from <a href="https://tenor.com/search/mad-gifs">Mad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
