@@ -7,11 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="assets/liliesmonet.jpg">
 
-- 📚 I’m currently studying in **University of La Laguna <br> (Computer Science and Engineering)**
+- 📚 Estudiante de Ingeniería informática en la **Universidad de la Laguna**
 
-- 📜I love speaking in english and I have a B2 certificate
-
-- 🎨I love art, specifically Monet's
+- 📜 Apasionado por los videojuegos y las tecnologías
 
 - Currently using: <br> <a href="https://ubuntu.com/" target="_blank"><img align="center" src="assets/ubuntu-4.svg" alt="ubuntu" height="30" width="40" /></a> <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank"><img align="center" src="assets/microsoft-windows-22.svg" alt="windows" height="30" width="40" /></a>
 
