@@ -11,7 +11,7 @@
 
 - 📜 Apasionado por los videojuegos y las tecnologías
 
-- Sistemas Operativos que uso: <br> <a href="https://archlinux.org/" target="_blank"><img align="center" src="assets/archlinux-icon.svg" alt="ubuntu" height="30" width="40" /></a> <a href="https://ubuntu.com/" target="_blank"><img align="center" src="assets/ubuntu-4.svg" alt="ubuntu" height="30" width="40" /></a> <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank"><img align="center" src="assets/microsoft-windows-22.svg" alt="windows" height="30" width="40" /></a> 
+- Sistemas Operativos que uso: <br> <a href="https://archlinux.org/" target="_blank"><img align="center" src="assets/archlinux-icon.svg" alt="ubuntu" height="30" width="30" /></a> <a href="https://ubuntu.com/" target="_blank"><img align="center" src="assets/ubuntu-4.svg" alt="ubuntu" height="30" width="40" /></a> <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank"><img align="center" src="assets/microsoft-windows-22.svg" alt="windows" height="30" width="40" /></a> 
 
 <p align="left">
 <h3> Formas de contactarme: </h3>
