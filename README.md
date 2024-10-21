@@ -25,5 +25,6 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/bash-2.svg" alt="bash" width="40" height="40"/> </a> <a href="[https://www.w3schools.com/cpp/](https://cplusplus.com/)" target="_blank" rel="noreferrer"> <img src="assets/c.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="assets/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="assets/ruby-programming-language-icon.svg" alt="ruby" width="40" height="40"/>
 
 ## Lenguajes más utilizados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriacp&layout=compact&theme_dark)
+<p align="centre">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriacp&layout=compact&theme=dark)
+</p>
