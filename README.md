@@ -7,6 +7,8 @@
 
 <img align="right" alt="Coding" width="400" src="assets/liliesmonet.jpg">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?Adriacp=DenverCoder1)](https://git.io/streak-stats)
+
 - 📚 Estudiante de Ingeniería informática en la **Universidad de la Laguna**
 
 - 📜 Apasionado por los videojuegos y las tecnologías
