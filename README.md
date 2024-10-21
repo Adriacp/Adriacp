@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="assets/liliesmonet.jpg">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?Adriacp=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adriacp&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 - 📚 Estudiante de Ingeniería informática en la **Universidad de la Laguna**
 
