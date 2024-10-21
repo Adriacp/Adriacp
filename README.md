@@ -26,4 +26,4 @@
 
 ## Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriacp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriacp&layout=compact)
