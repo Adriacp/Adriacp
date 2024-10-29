@@ -28,3 +28,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriacp&layout=compact&theme=dark" alt="Top Langs" />
 </div>
+
+``` c++
+  int main() {
+    std::cout << 1 << std::endl;
+  return 0;
+  }
+```
