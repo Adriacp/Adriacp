@@ -28,5 +28,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriacp&layout=compact&theme=dark" alt="Top Langs" />
 </div>
-
-<img src="https://raw.githubusercontent.com/Adriacp/Adriacp/output/snake.svg" alt="Snake animation" />
