@@ -1,9 +1,6 @@
 <p align="center">
 <img src="assets/gifs/oldcomputer.gif">
 </p>
-<h1 align="center"> "Hola, mundo!"
-<img src="assets/gifs/hand_waving.gif" width="50" height="50">
-</h1>
 
 <img align="right" alt="Coding" width="400" src="assets/images/liliesmonet.jpg">
 
