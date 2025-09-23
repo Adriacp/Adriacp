@@ -1,8 +1,8 @@
 <p align="center">
-<img src="assets/gifs/oldcomputer.gif">
+<img src="assets/images/IMG_8194.JPG">
 </p>
 
-<img align="right" alt="Coding" width="400" src="assets/images/liliesmonet.jpg">
+<img align="right" alt="Coding" width="400" src="assets/images/IMG_8220.JPG">
 
 - 📚 Estudiante de Ingeniería informática en la **Universidad de la Laguna**
 
