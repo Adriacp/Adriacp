@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/images/IMG_8194.JPG">
+<img src="assets/images/IMG_8221.JPG">
 </p>
 
 <img align="right" alt="Coding" width="400" src="assets/images/IMG_8220.JPG">
